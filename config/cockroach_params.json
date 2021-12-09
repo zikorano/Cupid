@@ -1,0 +1,8 @@
+{
+    "provider":"cockroach",
+    "user":"maxroach",
+    "host":"localhost",
+    "port":26257,
+    "database":"bank",
+    "sslmode":"disable"
+}
